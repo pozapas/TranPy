@@ -8,6 +8,4 @@ This repository helps transportation engineers and students to learn how to impl
 
 Please send me your feedback via amiir.rafe@gmail.com
 
-`last update: 2020-11-15`
-```python
-import numpy as np
+last update: 2020-11-15
