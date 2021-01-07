@@ -6,6 +6,6 @@ This repository helps transportation engineers and students to learn how to impl
 - Transportation Planning 
 - Traffic Engineering
 
-Please send me your feedback via amiir.rafe@gmail.com
+## Find the [Wiki page](https://github.com/pozapas/TranspoPy/wiki) for more details.
 
-last update: 2020-11-15
+Please send me your feedback via amiir.rafe@gmail.com
