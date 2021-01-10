@@ -1,4 +1,3 @@
-This page contains content that is a prerequisite for this course. These include the following:
 * [Installing Python](#installing-python)
 * [Installing pip](#installing-pip)
 * [Installing Anaconda](#installing-anaconda)
